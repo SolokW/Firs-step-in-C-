@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\bin\Debug\net6.0\Example001_World.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\bin\Debug\net6.0\Example001_World.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\bin\Debug\net6.0\Example001_World.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\bin\Debug\net6.0\Example001_World.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\bin\Debug\net6.0\Example001_World.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\refint\Example001_World.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\Example001_World.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Example001_World\obj\Debug\net6.0\ref\Example001_World.dll
