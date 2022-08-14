@@ -1,0 +1,15 @@
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\bin\Debug\net6.0\Task1_HelloWorld.exe
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\bin\Debug\net6.0\Task1_HelloWorld.deps.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\bin\Debug\net6.0\Task1_HelloWorld.runtimeconfig.json
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\bin\Debug\net6.0\Task1_HelloWorld.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\bin\Debug\net6.0\Task1_HelloWorld.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.AssemblyInfo.cs
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\refint\Task1_HelloWorld.dll
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.pdb
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\Task1_HelloWorld.genruntimeconfig.cache
+C:\Users\ast_a\OneDrive\Desktop\Geekbrains\C#\Lections\Lection1\Task1_HelloWorld\obj\Debug\net6.0\ref\Task1_HelloWorld.dll
