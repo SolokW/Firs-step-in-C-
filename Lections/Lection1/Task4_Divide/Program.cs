@@ -2,6 +2,6 @@
 int numberB = 5;
 Console.WriteLine(numberA/numberB);
 
-double numberC = 12;
-double numberD = 5;
+double numberC = 13;
+double numberD = 7;
 Console.WriteLine(numberC/numberD);
